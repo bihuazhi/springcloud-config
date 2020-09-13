@@ -1,2 +1,2 @@
-config.info
-   name:config - profle:dev
+config:
+   info: "name:config - profle:dev"
