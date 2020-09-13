@@ -1,2 +1,2 @@
-config.info
-  name:config - profile:test
+config:
+  info:"name:config - profile:test"
